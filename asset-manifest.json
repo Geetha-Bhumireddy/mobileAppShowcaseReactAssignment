@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mobileAppShowcaseReactAssignment/static/css/main.ff02f4b5.css",
+    "main.js": "/mobileAppShowcaseReactAssignment/static/js/main.9c7eec8c.js",
+    "static/js/453.7f705ac1.chunk.js": "/mobileAppShowcaseReactAssignment/static/js/453.7f705ac1.chunk.js",
+    "static/media/maps.jpg": "/mobileAppShowcaseReactAssignment/static/media/maps.e2d218960b7645f980ba.jpg",
+    "static/media/make-a-profile-image.jpg": "/mobileAppShowcaseReactAssignment/static/media/make-a-profile-image.7095b6c3a5853add035c.jpg",
+    "static/media/business-app-image-icon.jpg": "/mobileAppShowcaseReactAssignment/static/media/business-app-image-icon.434f7eb2ab26e6fd7cda.jpg",
+    "static/media/realistic-phone-studio-social-media.jpg": "/mobileAppShowcaseReactAssignment/static/media/realistic-phone-studio-social-media.56d0567807401c67eb81.jpg",
+    "static/media/illustration.jpg": "/mobileAppShowcaseReactAssignment/static/media/illustration.3d8e17f8e0fcf9958520.jpg",
+    "static/media/sc-4.jpg": "/mobileAppShowcaseReactAssignment/static/media/sc-4.e4912f8fd8c8112e9666.jpg",
+    "static/media/features-img.jpg": "/mobileAppShowcaseReactAssignment/static/media/features-img.d4d6f164d3852637c04e.jpg",
+    "static/media/sc-3.jpg": "/mobileAppShowcaseReactAssignment/static/media/sc-3.afaf98003486cc97db98.jpg",
+    "static/media/design-partners-image.jpg": "/mobileAppShowcaseReactAssignment/static/media/design-partners-image.93a2f6818298dbce1250.jpg",
+    "static/media/sc-5.jpg": "/mobileAppShowcaseReactAssignment/static/media/sc-5.dfa6298341cf951a8034.jpg",
+    "index.html": "/mobileAppShowcaseReactAssignment/index.html",
+    "main.ff02f4b5.css.map": "/mobileAppShowcaseReactAssignment/static/css/main.ff02f4b5.css.map",
+    "main.9c7eec8c.js.map": "/mobileAppShowcaseReactAssignment/static/js/main.9c7eec8c.js.map",
+    "453.7f705ac1.chunk.js.map": "/mobileAppShowcaseReactAssignment/static/js/453.7f705ac1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.9c7eec8c.js"
+  ]
+}
