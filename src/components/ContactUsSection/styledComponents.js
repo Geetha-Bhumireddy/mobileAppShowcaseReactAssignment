@@ -32,6 +32,10 @@ export const ContactContainer = styled.div`
     h2 {
       font-size: 2em;
     }
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
   }
 `;
 
