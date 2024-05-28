@@ -26,7 +26,7 @@ The Mobile Showcase Application is a React-based web application designed to pre
 
 - **Contact Us Section**
 <img width="947" alt="image" src="https://github.com/Geetha-Bhumireddy/mobileAppShowcaseReactAssignment/assets/150501626/23ba1b60-7978-424a-a28c-778486e29512">
-
+  
 ## Getting Started
 To run this project locally, follow these steps:
 
