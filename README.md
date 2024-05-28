@@ -54,41 +54,6 @@ npm start
 yarn start
 Open your browser and navigate to http://localhost:3000 to view the application.
 
-###Project Structure
-
-mobile-app-showcase/
-├── public/
-│   ├── features-img.jpg
-│   ├── about-us-image.jpg
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   ├── Header/
-│   │   │   ├── index.js
-│   │   │   └── styledComponents.js
-│   │   ├── ReviewsSection/
-│   │   │   ├── index.js
-│   │   │   └── styledComponents.js
-│   │   ├── FeaturesSection/
-│   │   │   ├── index.js
-│   │   │   └── styledComponents.js
-│   │   ├── AboutUsSection/
-│   │   │   ├── index.js
-│   │   │   └── styledComponents.js
-│   │   ├── ContactUsSection/
-│   │   │   ├── index.js
-│   │   │   └── styledComponents.js
-│   │   ├── Home/
-│   │   │   ├── index.js
-│   │   │   └── styledComponents.js
-│   ├── App.js
-│   ├── index.js
-│   └── index.css
-├── .gitignore
-├── package.json
-├── README.md
-└── yarn.lock
 ###Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 
