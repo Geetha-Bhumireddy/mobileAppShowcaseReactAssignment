@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 - Node.js (version 14 or above)
 - npm or yarn
 
-### Installation
+### Steps to run project locally
 Clone the repository:
 ```bash
 git clone https://github.com/Geetha-Bhumireddy/mobileAppShowcaseReactAssignment.git
