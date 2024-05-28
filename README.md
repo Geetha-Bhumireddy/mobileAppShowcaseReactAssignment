@@ -7,9 +7,8 @@ Welcome to the Mobile Showcase Application! This project is designed to highligh
 2. [Features](#features)
 3. [Screenshots](#screenshots)
 4. [Getting Started](#getting-started)
-5. [Project Structure](#project-structure)
-6. [Contributing](#contributing)
-7. [License](#license)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Introduction
 The Mobile Showcase Application is a React-based web application designed to present and promote a mobile app. It includes multiple sections such as Home, About Us, Features, Reviews, and Contact Us. Each section is meticulously crafted to provide detailed information and an engaging user experience. The application is fully responsive and includes animations and transitions to enhance the visual appeal.
