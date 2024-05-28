@@ -40,7 +40,8 @@ Clone the repository:
 ```bash
 git clone https://github.com/Geetha-Bhumireddy/mobileAppShowcaseReactAssignment.git
 cd mobile-app-showcase
-###Install dependencies:
+
+###Install dependencies
 
 bash
 Copy code
