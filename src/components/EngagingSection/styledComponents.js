@@ -50,6 +50,9 @@ export const Card = styled.div`
     transform: translateY(-10px);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
   }
+  @media (max-width: 800px) {
+    margin-left:80px;
+  }
 `;
 
 export const CardIcon = styled.div`
